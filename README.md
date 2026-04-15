@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/joshuacheong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dual+Head+of+BD+%26+Product+%40+Mantle;Exploring+Uncensored+AI+(OpenClaw);Developing+Algorithmic+Trading+Funds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dual+Head+of+BD+%26+Product+%40+Mantle;Exploring+Private+AI+(OpenClaw);Developing+Algorithmic+Trading+Funds" alt="Typing SVG" />
   </a>
 </p>
 
 ## 🧑‍💻 About Me
 
-I'm a builder, entrepreneur, and SUTD CSD graduate based in Singapore. Currently, I serve as the **Dual Head of BD and Product at Mantle Network**, where I focus on scaling institutional-grade DeFi liquidity and advancing modular blockchain infrastructure. My passion lies at the intersection of Web3, artificial intelligence, and quantitative finance.
+I'm a builder, entrepreneur, investor and SUTD CSD / Cambridge Judge business school graduate based in Singapore. Currently, I serve as the **Dual Head of BD and Product at Mantle Network**, where I focus on scaling institutional-grade DeFi liquidity and advancing modular blockchain infrastructure. My passion lies at the intersection of Web3, artificial intelligence, and quantitative finance.
 
 **My Background & Current Focus:**
 - 🌐 **Mantle Network:** Leading both business development and product strategy to bridge the gap between traditional finance and decentralized ecosystems.
